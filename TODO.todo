@@ -1,0 +1,17 @@
+✔ Cooling curve Generator nochmal angucken @done(24-11-19 23:26)
+
+☐ Nur Dense Layer verwenden
+☐ Transformer Layer verwenden
+☐ Ein finales modell trainieren
+
+Benchmark:
+    ✔ 10 @done(24-11-28 11:14)
+    ✔ 25 @done(24-11-28 11:34)
+    ✔ 500 @done(24-11-28 01:56)
+    ✔ 200 (for 200 cycles) @done(24-11-29 13:35)
+    ☐ 1000 (for 200 cycles)
+    ✔ 2000 (for 200 cycles) @done(24-12-02 20:57)
+    ✔ 500 (for 200 cycles) @done(24-11-29 13:35)
+    ☐ 4000
+    ☐ 9000
+

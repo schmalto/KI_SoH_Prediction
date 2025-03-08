@@ -1,0 +1,12 @@
+h5py==3.11.0
+keras==3.4.1
+mat4py==0.6.0
+matplotlib==3.9.0
+numpy==2.0.0
+pandas==2.2.2
+scikit_learn==1.5.0
+scipy==1.14.0
+tensorflow==2.16.2
+termcolor==2.4.0
+tqdm==4.66.2
+tqdm==4.66.4
